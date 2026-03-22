@@ -16,8 +16,8 @@ Currently, I’m strengthening my skills in Data Structures, Machine Learning, a
 ---
 
 ## 🌐 Connect with Me:
-- LinkedIn: (add link)  
-- Email: (add email)  
+- LinkedIn: https://www.linkedin.com/in/riyakashyap10/  
+- Email: riyakashyap972@gmail.com
 
 ---
 
