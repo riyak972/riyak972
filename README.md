@@ -1,16 +1,52 @@
-## Hi there 👋
+# 💫 About Me:
+<h1 align="center">👋 Hi, I'm Riya Kashyap</h1>
+🎓 B.E. Artificial Intelligence & Data Science (CGPA: 8.08)  
+💻 Software Developer | 🤖 AI/ML Enthusiast | 🎨 Frontend Developer  
 
-<!--
-**riyak972/riyak972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about solving real-world problems through software and AI.  
+From building scalable applications to working on intelligent systems, I enjoy exploring technologies that create meaningful impact.  
 
-Here are some ideas to get you started:
+Currently, I’m strengthening my skills in Data Structures, Machine Learning, and modern frontend development while working on real-world projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Always learning, building, and improving.
+
+---
+
+## 🌐 Connect with Me:
+- LinkedIn: (add link)  
+- Email: (add email)  
+
+---
+
+## 💻 Tech Stack:
+
+- **Languages:** Python, JavaScript, C++, Java, SQL  
+
+- **Data Science & AI:**  
+  Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
+
+- **Frontend Development:**  
+  React.js, HTML, CSS  
+
+- **Tools & Platforms:**  
+  Git, GitHub, Docker, AWS, Firebase  
+
+- **Core Concepts:**  
+  Data Structures & Algorithms, Machine Learning, OOP, DBMS  
+
+---
+
+## 📈 Currently:
+- Practicing Data Structures & Algorithms  
+- Learning System Design & Computer Networks
+- Exploring AI + Frontend integrations  
+
+---
+
+## 📊 GitHub Stats:
+![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyak972&show_icons=true)
+
+---
+
+## 🔥 Let's Connect & Build!
+Always open to collaboration, learning, and exciting opportunities 🚀
