@@ -1,7 +1,10 @@
-# 💫 About Me:
+# About Me:
 <h1 align="center">👋 Hi, I'm Riya Kashyap</h1>
+
 🎓 B.E. Artificial Intelligence & Data Science (CGPA: 8.08)  
-💻 Software Developer | 🤖 AI/ML Enthusiast | 🎨 Frontend Developer  
+💻 Software Developer  
+🤖 AI/ML Enthusiast  
+🎨 Frontend Developer   
 
 I’m passionate about solving real-world problems through software and AI.  
 From building scalable applications to working on intelligent systems, I enjoy exploring technologies that create meaningful impact.  
