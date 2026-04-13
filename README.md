@@ -47,7 +47,7 @@ Currently, I’m strengthening my skills in Data Structures, Machine Learning, a
 ---
 
 ## 📊 GitHub Stats:
-![Riya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyak972&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyak972&theme=radical
 
 ---
 
